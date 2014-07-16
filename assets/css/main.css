@@ -161,7 +161,7 @@ a:after {
                     #headerwrap { width:100%; height:100%;}
      }                   
                     
- @media only screen and (max-width: 450px) {
+ @media only screen and (max-width: 550px) {
                      #myCanvas, #tags { 
                         font-size: 100%; width:100%; height:100%; padding-top: 50px;
                      -webkit-transform: scale(1.5);
