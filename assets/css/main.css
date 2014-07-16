@@ -157,7 +157,7 @@ a:after {
     background-size: cover;
 }
  @media only screen and (max-width: 400px) {
-                    #headerwrap { width:relative;}
+                    #headerwrap, #myCanvasContainer, #tags { width:relative;}
      }                   
                     
                     
