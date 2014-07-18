@@ -250,6 +250,7 @@ img {
 .img-responsive {
     display: block;
     height: auto;
+    margin: 0 auto;
     max-width: 100%;
 }
 .img-rounded {
