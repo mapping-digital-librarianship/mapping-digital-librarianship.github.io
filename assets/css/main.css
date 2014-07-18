@@ -77,7 +77,7 @@ hr {
     padding: 0;
 }
 .navbar {
-    font-weight: 800;
+    font-weight: 300;
     font-size: 14px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -301,6 +301,8 @@ hr {
     height: 550px;
     min-height: 550px;
 }
+
+.im-centered { margin: auto; max-width: 768px;}
 /* ==========================================================================
    Pricing Tables
    ========================================================================== */
